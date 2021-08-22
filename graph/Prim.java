@@ -41,7 +41,9 @@ public class Prim {
     public ArrayList<Edge> primFunc(String startNode) {
         Edge popedEdge;
         ArrayList<Edge> mst = new ArrayList<>();
-        ArrayList<Edge> currentEdgeList, candidateEdgeList, adjacentEdgeNodes;
+        ArrayList<Edge> currentEdgeList;        // 각 노드(key)에 대한 리스트(value)에 간선을 넣기 위한 변수
+        ArrayList<Edge> candidateEdgeList;      // 시작노드에 연결된 간선들의 리스트를 우선순위 큐에 넣기 위한 변수
+        ArrayList<Edge> adjacentEdgeNodes;      //
         ArrayList<String> connectedNodes = new ArrayList<>();
         HashMap<String, ArrayList<Edge>> adjacentEdges = new HashMap<>();
 
