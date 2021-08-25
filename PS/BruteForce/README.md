@@ -1,4 +1,4 @@
-# [BruteForce - 완전탐색](./BruteForce/BruteForce.md)
+# BruteForce - 완전탐색
 
 > 문제를 해결하기 위해 확인해야 하는 **모든 경우를 전부 탐색**하는 방법
 >
