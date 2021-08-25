@@ -1,4 +1,4 @@
-package algorithm.graph;
+package algorithm.theory.graph;
 
 /*
     개선된 Prim's Algorithm : 간선이 아닌 **노드를 중심**으로 우선순위 큐를 적용하는 방식

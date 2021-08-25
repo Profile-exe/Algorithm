@@ -1,4 +1,4 @@
-package algorithm.graph;
+package algorithm.theory.graph;
 
 /*
     Single-source (단일 출발) 문제

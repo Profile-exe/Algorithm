@@ -2,19 +2,25 @@
 
 > 알고리즘 공부 내용 정리
 
-## [Sort](./sort)
+___
 
-- [BinarySearch](./sort/BinarySearch.java)
-- [MergeSort](./sort/MergeSort.java)
-- [QuickSort](./sort/QuickSort.java)
+## [Theory](./theory)
+
+### [Sort](./theory/sort)
+
+- [BinarySearch](./theory/sort/BinarySearch.java)
+- [MergeSort](./theory/sort/MergeSort.java)
+- [QuickSort](./theory/sort/QuickSort.java)
+
+### [Graph](./theory/graph)
+
+- [DFS](./theory/graph/DFS.java)
+- [BFS](./theory/graph/BFS.java)
+- [Dijkstra](./theory/graph/Dijkstra.java)
+- [Kruskal](./theory/graph/Kruskal.java)
 
 ___
 
-## [Graph](./graph)
+## [Problem solve](./PS)
 
-- [DFS](./graph/DFS.java)
-- [BFS](./graph/BFS.java)
-- [Dijkstra](./graph/Dijkstra.java)
-- [Kruskal](./graph/Kruskal.java)
-
-___
+### [BruteForce](./PS/BruteForce)

@@ -1,4 +1,4 @@
-package algorithm.graph;
+package algorithm.theory.graph;
 
 /*
     Backtracking Algorithm: 백트래킹(backtracking) 또는 퇴각 검색(backtrack)으로 부름

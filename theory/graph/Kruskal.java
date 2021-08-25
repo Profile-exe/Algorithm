@@ -1,4 +1,4 @@
-package algorithm.graph;
+package algorithm.theory.graph;
 
 /*
     신장 트리 (Spanning Tree)
