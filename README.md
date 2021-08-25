@@ -2,6 +2,7 @@
 
 > 알고리즘 공부 내용 정리
 
+[수강한 강의 자료 repository](https://github.com/rhs0266/FastCampus)
 ___
 
 ## [Theory](./theory)
